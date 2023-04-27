@@ -23,6 +23,10 @@
 
 ## <img src="https://user-images.githubusercontent.com/57241391/217628486-4fd94a14-a731-4978-9c49-22730fb2d449.png" height="30"> Descrição do Projeto 
  
+ A análise de dados socioeconômicos é uma atividade fundamental para qualquer empresa que busca compreender como as mudanças no cenário podem impactar suas estratégias corporativas e, consequentemente, auxilia na tomada de decisões mais informadas e assertivas.
+ 
+ Com essa importância da análise de dados socioeconômicos foi proposto no curso (que realizo no momento) 
+ 
  A ideia do projeto é fazer uma análise e modelagem de um modelo de Machine Learning com foco em um conjunto de dados público de comércio eletrônico (e-commerce) brasileiro  de pedidos feitos na [data.world](https://data.world/laurel/world-happiness-report-data). 
 
 
