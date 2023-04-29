@@ -62,5 +62,5 @@ Não hesite em entrar em contato comigo caso tenha alguma dúvida ou esteja inte
 
 <!-- links -->
 
-[license-shield]:https:\img.shields.io\github/license\AnaliseExploratoria_SocioEconomico?color=brightgreen&style=flat-square 
-[license-url]: https:\github.com\AnaliseExploratoria_SocioEconomico\blob\main\LICENSE 
+[license-shield]: https://img.shields.io/github/license/anamariapego/AnaliseExploratoria_SocioEconomico?color=brightgreen&style=flat-square
+[license-url]: https://github.com/anamariapego/AnaliseExploratoria_SocioEconomico/blob/main/LICENSE
