@@ -1,5 +1,7 @@
 <a name="readme-top"></a>
 
+[![MIT License][license-shield]][license-url]
+
 # Análise Exploratória dos Dados Socios-Econômicos
  <img src="https://user-images.githubusercontent.com/57241391/234729003-071e32a7-5bbf-49cf-85d2-5129ce49a74b.png" height="50">
 
@@ -60,4 +62,5 @@ Não hesite em entrar em contato comigo caso tenha alguma dúvida ou esteja inte
 
 <!-- links -->
 
-
+[license-shield]:https://img.shields.io/github/license//AnaliseExploratoria_SocioEconomico?color=brightgreen&style=flat-square 
+[license-url]: https://github.com//AnaliseExploratoria_SocioEconomico/blob/main/LICENSE 
