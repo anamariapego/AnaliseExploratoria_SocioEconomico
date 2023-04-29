@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-[![MIT License][license-shield]][license-url]
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fanamariapego%2FAnaliseExploratoria_SocioEconomico&label=visitors&countColor=%2337d67a&style=flat-square&labelStyle=lower)
 
 # Análise Exploratória dos Dados Socios-Econômicos
  <img src="https://user-images.githubusercontent.com/57241391/234729003-071e32a7-5bbf-49cf-85d2-5129ce49a74b.png" height="50">
@@ -61,6 +61,3 @@ Não hesite em entrar em contato comigo caso tenha alguma dúvida ou esteja inte
 <p align="right">(<a href="#readme-top">Voltar para o início</a>)</p>
 
 <!-- links -->
-
-[license-shield]: https://img.shields.io/github/license/anamariapego/AnaliseExploratoria_SocioEconomico?color=brightgreen&style=flat-square
-[license-url]: https://github.com/anamariapego/AnaliseExploratoria_SocioEconomico/blob/main/LICENSE
