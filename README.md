@@ -25,12 +25,7 @@
  
  A análise de dados socioeconômicos é uma atividade fundamental para qualquer empresa que busca compreender como as mudanças no cenário podem impactar suas estratégias corporativas e, consequentemente, auxilia na tomada de decisões mais informadas e assertivas.
  
- Com essa importância da análise de dados socioeconômicos foi proposto no curso (que realizo no momento) 
- 
- A ideia do projeto é fazer uma análise e modelagem de um modelo de Machine Learning com foco em um conjunto de dados público de comércio eletrônico (e-commerce) brasileiro  de pedidos feitos na [data.world](https://data.world/laurel/world-happiness-report-data). 
-
-
-O conjunto de dados possuem informações de vários marketplace no Brasil de 2016 a 2018. Seus recursos permitem visualizar um pedido de várias dimensões: desde o status do pedido, preço, pagamento e desempenho do frete até a localização do cliente, atributos do produto e, finalmente, avaliações escritas pelos clientes. Também lançamos um conjunto de dados de geolocalização que relaciona os códigos postais brasileiros às coordenadas lat/lng.
+Com essa importância da análise de dados socioeconômicos foi proposto o desenvolvimento de um conjunto de dados que contemplasse informações relevantes como PIB per capita, estrutura familiar e expectativa de vida, entre outras. Essas informações são essenciais para que as empresas possam entender melhor o perfil socioeconômico das regiões em que atuam e, assim, direcionar suas estratégias de forma mais eficiente e eficaz. Com acesso a esses dados, as empresas podem identificar tendências, oportunidades e ameaças, o que permite que elas ajustem suas estratégias de forma mais ágil e assertiva.
 
 <p align="right">(<a href="#readme-top">Voltar para o início</a>)</p>
 
