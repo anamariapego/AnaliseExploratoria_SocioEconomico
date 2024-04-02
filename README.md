@@ -23,7 +23,7 @@
  
 Com essa importância da análise de dados socioeconômicos foi proposto o desenvolvimento de um conjunto de dados que contemplasse informações relevantes como PIB per capita, estrutura familiar e expectativa de vida, entre outras. Essas informações são essenciais para que as empresas possam entender melhor o perfil socioeconômico das regiões em que atuam e, assim, direcionar suas estratégias de forma mais eficiente e eficaz. Com acesso a esses dados, as empresas podem identificar tendências, oportunidades e ameaças, o que permite que elas ajustem suas estratégias de forma mais ágil e assertiva.
 
-<p align="right">(<a href="#readme-top">Voltar para o início</a>)</p>
+<p><a href="#readme-top">Voltar</a></p>
 
 
 ## <img src="https://user-images.githubusercontent.com/57241391/217636535-f4831826-c808-4a6c-9598-664e0eedfc14.png" height="30"> Métodos Usados
@@ -33,14 +33,14 @@ Com essa importância da análise de dados socioeconômicos foi proposto o desen
 * Exploração de Dados/Análise Descritiva
 * Visualização dos Dados
 
-<p align="right">(<a href="#readme-top">Voltar para o início</a>)</p>
+<p><a href="#readme-top">Voltar</a></p>
 
 ## <img src="https://user-images.githubusercontent.com/57241391/217635773-9ad89821-c574-4962-9b11-1d599d068490.png" height="30"> Tecnologias
 
 * Python
 * GitHub
 
-<p align="right">(<a href="#readme-top">Voltar para o início</a>)</p>
+<p><a href="#readme-top">Voltar</a></p>
 
 ## <img src="https://user-images.githubusercontent.com/57241391/217637444-71fb0baf-2675-4da8-b85f-fe5ee2ffd4c2.png" height="30"> Contato
 
@@ -50,7 +50,7 @@ Link do Projeto - [AnaliseExploratoria_SocioEconomico](https://github.com/anamar
 
 Não hesite em entrar em contato comigo caso tenha alguma dúvida ou esteja interessado em colaborar com o projeto.
 
-<p align="right">(<a href="#readme-top">Voltar para o início</a>)</p>
+<p><a href="#readme-top">Voltar</a></p>
 
 ## <img src="https://user-images.githubusercontent.com/57241391/217642578-1de992a9-8b94-41fc-b193-1ba0b8cd4141.png" height="30"> Referências
 
@@ -58,6 +58,6 @@ Não hesite em entrar em contato comigo caso tenha alguma dúvida ou esteja inte
   
 
 
-<p align="right">(<a href="#readme-top">Voltar para o início</a>)</p>
+<p><a href="#readme-top">Voltar</a></p>
 
 <!-- links -->
